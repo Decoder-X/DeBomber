@@ -4,22 +4,44 @@
 
 ## [ * ] Installation Process:
 
-`apt-get update -y`<br>
-`apt-get upgrade -y`<br>
-`apt-get install python -y`<br>
-`apt-get install git-y`<br>
-`pip install mechanize`<br>
-`pip install requests`<br>
-`pip install colorama`<br>
-`git clone https://github.com/Decoder-X/DeBomber.git`<br>
-`cd DeBomber`<br>
-`python Dbomb.py`<br>
+```
+apt-get update -y
+```
+```
+apt-get upgrade -y
+```
+```
+apt-get install python -y
+```
+```
+apt-get install git-y
+```
+```
+pip install mechanize
+```
+```
+pip install requests
+```
+```
+pip install colorama
+```
+```
+git clone https://github.com/Decoder-X/DeBomber.git
+```
+```
+cd DeBomber
+```
+```
+python Dbomb.py
+```
 
 
 ## Note
 - This is just Educational Purpose
 - Don't Harm Anyone
 - Author can't Take Risk
+### For Any Help Contact With me
+- [**Telegram**](https://t.me/Decoder_X)
 
 ## Screenshot
 
