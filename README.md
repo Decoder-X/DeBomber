@@ -23,9 +23,6 @@ pip install mechanize
 pip install requests
 ```
 ```
-pip install colorama
-```
-```
 git clone https://github.com/Decoder-X/DeBomber.git
 ```
 ```
@@ -35,6 +32,10 @@ cd DeBomber
 python Dbomb.py
 ```
 
+## Run With one command 
+```
+apt-get update && apt-get upgrade && apt-get install git && apt-get install python && pip install mechanize && pip install requests && git clone https://github.com/Decoder-X/DeBomber.git && cd DeBomber && python Dbomb.py
+```
 
 ## Note
 - This is just Educational Purpose
